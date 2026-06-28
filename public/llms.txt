@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://katlon-6c0fe7bf.zappy5.app
+https://example.com
 גלה את אוסף חולצות הכדורגל המקוריות של katlon – מהמגרש לרחוב, תלבושות איכותיות לכל אוהד ושחקן. קנה עכשיו אונליין והצטרף למועדון המנצחים!
 
 ### הסיפור
-https://katlon-6c0fe7bf.zappy5.app/story
+https://example.com/story
 הסיפור של קטלון לא מתחיל בבד, אלא באהבה בלתי מתפשרת לכדורגל. הצטרף למסע שלנו ולמד איך כל חולצה מקבלת נשמה של ניצחון.
 
 ### מדריך למעריץ
-https://katlon-6c0fe7bf.zappy5.app/fan-guide
+https://example.com/fan-guide
 בין אם אתה אולטראס מושבע או רוקי מתלהב, המדריך שלנו יהפוך אותך למומחה אמיתי. טיפים, סודות וכל מה שצריך לדעת כדי לחיות את המשחק עם katlon.
 
 ### צור קשר
-https://katlon-6c0fe7bf.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על מידות, משלוחים או סתם בא לך לדבר כדורגל? צוות katlon studio כאן בשבילך. מלא את הפרטים ונדאג שתקבל את החולצה המושלמת במהירות.
 
 ### Products
-https://katlon-6c0fe7bf.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - katlon
 
 ### Cart
-https://katlon-6c0fe7bf.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://katlon-6c0fe7bf.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://katlon-6c0fe7bf.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://katlon-6c0fe7bf.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://katlon-6c0fe7bf.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://katlon-6c0fe7bf.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - katlon
 
 ### Category
-https://katlon-6c0fe7bf.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - katlon
 
 ### תודה על פנייתך
-https://katlon-6c0fe7bf.zappy5.app/contact/thank-you
+https://example.com/contact/thank-you
 katlon - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://katlon-6c0fe7bf.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://katlon-6c0fe7bf.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://katlon-6c0fe7bf.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://katlon-6c0fe7bf.zappy5.app/sitemap.xml
-- Robots: https://katlon-6c0fe7bf.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://katlon-6c0fe7bf.zappy5.app/llms-full.txt
-- Products (JSON): https://katlon-6c0fe7bf.zappy5.app/products.json
-- Products (Google Merchant RSS): https://katlon-6c0fe7bf.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
